@@ -1,17 +1,12 @@
 # IPC1_Tarea2_202300353
 Tarea 2 LAB IPC1<br>
-|-----------------Nombre------------|---Carnet-----|<br>
-|--------------------------------------|---------------|<br>
-|-Jonathan Eliud Jeronimo Salguero-|-202300353-|
-
-
 <table border="1">
   <tr>
-    <td>Columna 1, Fila 1</td>
-    <td>Columna 2, Fila 1</td>
+    <td>Nombre</td>
+    <td>Carnet</td>
   </tr>
   <tr>
-    <td>Columna 1, Fila 2</td>
-    <td>Columna 2, Fila 2</td>
+    <td>Jonathan Eliud Jeronimo Salguero</td>
+    <td>202300353</td>
   </tr>
 </table>
